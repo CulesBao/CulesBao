@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://fb.com/cules.21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cules.21" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/cules" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="culesbao" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/cules" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cules" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/CulesBao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cules" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
